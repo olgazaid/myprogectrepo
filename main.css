@@ -1,3 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    font-family: 'Nunito', sans-serif;
+    background: rgba(76, 175, 80, 0.3);**/
+    margin: 4em;
+   padding: 4em;
+   
+}
+
+/**.pic{
+    background-image: url("http://thephideltlegacy.com/education/presidents/andrew_sledd.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.2; 
+}**/ 
+
 h1{
-    color: antiquewhite;
+    color: #563830;
+    text-transform:  uppercase;
+    text-align: center;
+    font-family: 'Kumar One', cursive;
+    letter-spacing: 0.02em;
+    word-spacing: 0.12em;
+
+}
+
+p{
+ color: #986645;
+ margin: 2em;
+    line-height: 1.3em;
+}
+
+.from {
+    font-size: 13px;i
+    text-align: center
 }
