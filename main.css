@@ -3,9 +3,10 @@
     padding: 0;
 }
 .main{
-    font-family: 'Nunito', sans-serif;
+   
     background: rgba(76, 175, 80, 0.3);**/
     margin: 10em;
+    padding: 4em;
    
 }
 
@@ -17,19 +18,24 @@
 }**/ 
 
 h1{
-    color: #563830;
+    color: #ffffff;
     text-transform:  uppercase;
     text-align: center;
     font-family: 'Kumar One', cursive;
+    font-size:3em;
     letter-spacing: 0.02em;
     word-spacing: 0.12em;
+    padding: 2em;
+    background-color: #ff9230;
+    
 
 }
 
 p{
  color: #986645;
  margin: 2em;
-    line-height: 1.3em;
+ line-height: 1.3em;
+ font-family: 'Nunito', sans-serif;
 }
 
 .from {
